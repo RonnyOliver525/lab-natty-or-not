@@ -22,7 +22,7 @@ Como já tenho contato com algumas dessas IAs, deixarei minha singela contribui�
 ### Template
 
 ```markdown
-# Como as IAs Generativas podem desempenhar a função de inclusão social
+# Como as IAs Generativas podem desempenhar a função de inclusão social. 🎼
 
 ## 📒 Descrição
 Estas músicas representam como as tecnologias de IA podem desempenhar um função social importante e disruptiva no contexto musical.
