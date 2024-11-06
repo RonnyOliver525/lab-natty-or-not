@@ -40,7 +40,7 @@ então utilizei três métodos distintos para criar composições no Suno.
  Ela se baseia no poema The Raven de EDGAR ALLAN POE, uma luta mental provocada pela perca de um grande amor.
 
 ## 🚀 Resultados
-Os resultados desta experiência foram muito satisfatórios.
+Os resultados desta experiência foram bem satisfatórios.
 Todas as músicas me retornaram algum grau de originalidade, timbre interessante e praticamente qualquer gosto musical, pode ser satisfeito por essa IA.
 [https://suno.com/song/356ee379-1c83-43f5-a3b7-5755348e78b1] O Suno usou a mimha poesia para criar esta música.
 [https://suno.com/song/36950dcd-79f8-405a-aaff-1a4af76743ef] Música criada em co-produção com o ChatGPT. Escrevi partes e ele escreveu um complemento.
