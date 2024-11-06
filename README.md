@@ -8,7 +8,7 @@ Olá pessoal, Sou o Ronny, estudante de programação! Inspirado na hype _"Natty
 
 Como já tenho contato com algumas dessas IAs, deixarei minha singela contribuição para com a comunidade.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!? 
 
 ### Os objetivos eram:
 
