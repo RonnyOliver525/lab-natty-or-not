@@ -32,12 +32,12 @@ Suno - O responsável por transformar prompts em músicas, ele recebe letras int
 ChatGPT - Ele pode ser usado como um criador de prompt para o Suno ou até mesmo criar a própria música com características solicitadas à ele.
 
 ## 🧐 Processo de Criação
-    Sou compositor amador e ganhei alguns prêmios enquanto aluno de ensino médio por criar canções e poesias,
-    então utilizei três métodos distintos para criar composições no Suno.
+Sou compositor amador e ganhei alguns prêmios enquanto aluno de ensino médio por criar canções e poesias,
+então utilizei três métodos distintos para criar composições no Suno.
 * Primeiro utilizei uma letra que tinha escrito préviamente e coloquei os estilos e características que queria na música.
 * Depois eu joguei uma poesia e pedi para o Suno criar uma música inteira em cima daquela poesia.
 * Terceiro, usei O ChatGPT para criar uma letra e coloquei esta letra no Suno para ele criar com ela uma canção.
-    Ela se baseia no poema The Raven de EDGAR ALLAN POE, uma luta mental provocada pela perca de um grande amor.
+ Ela se baseia no poema The Raven de EDGAR ALLAN POE, uma luta mental provocada pela perca de um grande amor.
 
 ## 🚀 Resultados
 Os resultados desta experiência foram muito satisfatórios.
