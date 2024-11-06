@@ -56,7 +56,7 @@ Analizando que possuo espaço para aprimorar, lapidar meu prompt e refinar algun
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-- 
+- [Music(/exemplos/MUSIC.md)
 
 ## Links Interessantes
 
